@@ -11,17 +11,17 @@
 <br/>
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
   
-   <h3> Sobre mim </h3>
+   <h3> About me </h3>
 
-- 💬 Converse comigo de **Dart**.
+- 💬 Talk to me about **Java**.
 
-- 📫 Email: **natanvalimcardoso@hotmail.com**.
+- 📫 Email: **kirilanastasoff@gmail.com**.
 
-- 🔭 Atualmente estou aprendendo **Flutter**.
+- 🔭 I am currently learning **React**.
 
-- 🌳 Contato: **https://linktr.ee/natanvalim**.
+- 🌳 Cotact me: **https://www.linkedin.com/in/kanastasov/**.
 
-- 👨‍🎓 Análise e Desenvolvimento de Sistemas na **ULBRA**.
+- 👨‍🎓 Analysis and design of **E-commerce**.
 
 <br/>
 <br/>
